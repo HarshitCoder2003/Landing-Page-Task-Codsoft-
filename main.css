@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.head {
+    position: absolute;
+}
+
+body {
+    background:radial-gradient(circle at -4% -12.9%, rgb(74, 98, 110) 0.3%, rgb(30, 33, 48) 50.2%);
+}
+
+
+
+.header-content h1{
+    position:relative;
+    text-align: 7px;
+    top:-70px;
+    right:90px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-stretch: 7%;
+    background-color:black;
+    margin: 9.5%;
+    border-radius:20em;
+    color:aqua;
+    box-shadow:0 0 20px;
+    height: fit-content;
+    width: fit-content;
+}
+
+.header-content p {
+    position: relative;
+    margin-top: -14%;
+    right:-3%;
+    text-align: left;
+    font-size: 140%;
+    font-weight:larger;
+}
+
+
+
+.button  span{
+    position:relative;
+    right:-40%;
+    bottom:16pc;
+    gap: 50px;
+    padding:10px 50px;
+    border-radius:2em;
+    background-color:aqua;
+    font-weight:bold;
+    color: black;
+    box-shadow:0 0 9px black;
+    
+  
+    
+}
+
+.button :hover {
+    box-shadow:0 0 50px aqua;
+    
+}
+.introduction{
+    position: relative;
+    width:100%;
+    right: -5%;
+    margin: 1%;
+}
+
+.introduction :hover {
+    border-radius:2em;
+    width: fit-content;
+    position: relative;
+    background-color:aqua;
+    shape-image-threshold:20%;
+}
+
+.Read span{
+    position: absolute;
+    align-items: center;
+    margin-top: -53%;
+    right:80%;
+    padding: 0px 40px;
+    background-color: aquamarine;
+    border-radius:30em;
+}
+.Read :hover{
+    position:fixed;
+    box-shadow:0 0 50px aqua;
+      
+}
+
+.myself h2{
+    position: relative;
+    left:4%;
+    margin-top:10px 20px;
+    border-radius:2em;
+    padding: 0 50px; 
+    font-size: 150%;
+    font-weight:bold;
+    height: fit-content;
+    width: fit-content;
+    color:aqua;
+    font-weight:200%;
+    background-color:black;
+    box-shadow:0 0 30px aqua;
+}
+
+
+.myself h3{
+    position:relative;
+    width:fit-content;
+    border-radius:2px;
+    padding:0 50px;
+    margin:0px 30%;
+    right:29%;
+}
+
+.contact h1{
+    position: relative;
+    left:4%;
+    margin-top:9%;
+
+}
+
+.contact-content .contact{
+    position: relative;
+    
+}
+
+.myself h4{
+    position: relative;
+    left:7%;
+    padding: 11.5px;
+    background-color:aqua;
+    width: fit-content;
+    height:fit-content;
+    border-radius: 2em;
+    margin-top: 1%;
+    border-color: black;
+
+}
+.myself h4:hover{
+    position: fixed;
+    color: black;
+    background-color: aqua;
+    box-shadow:0 0 30px aqua;
+
+}
+
+
+.contact h3{
+    position: relative;
+    right:-10%;
+    margin-top:3%;
+    font-size:170%;
+    background-color: aqua;
+    height:80px;
+    width:180px;
+    border-radius: 2em;
+}
+
+
+.contact h2{
+    position: relative;
+    right: -10%;
+    margin-top:3%;
+    background-color: aqua;
+    width:14%;
+    height:15%;
+    border-radius: 2em;
+    font-size:170%;
+
+}
+
+
+
+.contact img{
+    position: relative;
+    border-radius:8em;
+    height:20%;
+    width:70%;
+    box-shadow:0 0 20px black;
+
+}
+
+
